@@ -1,0 +1,47 @@
+{
+  "name": "Bhagavad Gita - Sacred Text & Wisdom",
+  "short_name": "Bhagavad Gita",
+  "description": "Complete Bhagavad Gita with Sanskrit verses, English translations, and spiritual commentary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffbeb",
+  "theme_color": "#ea580c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "books", "lifestyle", "spirituality"],
+  "lang": "en",
+  "dir": "ltr",
+  "scope": "/",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "All Chapters",
+      "short_name": "Chapters",
+      "description": "Browse all 18 chapters",
+      "url": "/chapters",
+      "icons": [{ "src": "/images/logo.png", "sizes": "512x512" }]
+    },
+    {
+      "name": "Chapter 1",
+      "short_name": "Ch. 1",
+      "description": "Arjuna's Dilemma",
+      "url": "/chapters/1",
+      "icons": [{ "src": "/images/logo.png", "sizes": "512x512" }]
+    },
+    {
+      "name": "Chapter 2",
+      "short_name": "Ch. 2",
+      "description": "The Yoga of Knowledge",
+      "url": "/chapters/2",
+      "icons": [{ "src": "/images/logo.png", "sizes": "512x512" }]
+    }
+  ]
+}
