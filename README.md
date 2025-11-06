@@ -272,7 +272,7 @@ Contributions are welcome and appreciated! You can help by:
 
 ### Get in Touch
 
-- **Email**: [narendrabollineni2002@gmail.com](mailto:charanadishti123@gmail.com)
+- **Email**: [charanadishti123@gmail.com](mailto:charanadishti123@gmail.com)
 - **Phone/WhatsApp**: +91 79899 76214
 - **GitHub**: [imcharan3/Bhagvad-gita-website](https://github.com/imcharan3/Bhagavadgita)
 
