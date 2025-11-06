@@ -254,7 +254,7 @@ Currently supported video languages include Telugu, with more languages planned.
 
 Contributions are welcome and appreciated! You can help by:
 
-- **Reporting Issues**: Found a typo, broken link, or technical bug? [Open an issue](https://github.com/nrenx/Bhagvad-gita-website/issues)
+- **Reporting Issues**: Found a typo, broken link, or technical bug? [Open an issue](https://github.com/imcharan3/Bhagavadgita/issues)
 - **Improving Translations**: Suggest better translations or add commentary
 - **Adding Languages**: Help add video content in new languages
 - **Code Contributions**: Submit pull requests for features or fixes
@@ -272,9 +272,9 @@ Contributions are welcome and appreciated! You can help by:
 
 ### Get in Touch
 
-- **Email**: [narendrabollineni2002@gmail.com](mailto:narendrabollineni2002@gmail.com)
+- **Email**: [narendrabollineni2002@gmail.com](mailto:charanadishti123@gmail.com)
 - **Phone/WhatsApp**: +91 79899 76214
-- **GitHub**: [nrenx/Bhagvad-gita-website](https://github.com/nrenx/Bhagvad-gita-website)
+- **GitHub**: [nrenx/Bhagvad-gita-website](https://github.com/imcharan3/Bhagavadgita)
 
 ### Your Feedback Matters
 
