@@ -274,7 +274,7 @@ Contributions are welcome and appreciated! You can help by:
 
 - **Email**: [narendrabollineni2002@gmail.com](mailto:charanadishti123@gmail.com)
 - **Phone/WhatsApp**: +91 79899 76214
-- **GitHub**: [nrenx/Bhagvad-gita-website](https://github.com/imcharan3/Bhagavadgita)
+- **GitHub**: [imcharan3/Bhagvad-gita-website](https://github.com/imcharan3/Bhagavadgita)
 
 ### Your Feedback Matters
 
